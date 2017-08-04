@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">finalCal</string>
+    <string name="show_dialog">Show dialog</string>
+
+    <string-array name="customerList">
+        <item value="1">Samir</item>
+        <item value="2">Jean</item>
+        <item value="3">Frank</item>
+        <item value="4">Fadi</item>
+        <item value="5">Carol</item>
+    </string-array>
+
+
+    <string name="time_12am">12 am</string>
+    <string name="time_1am">1 am</string>
+    <string name="time_2am">2 am</string>
+    <string name="time_3am">3 am</string>
+    <string name="time_4am">4 am</string>
+    <string name="time_5am">5 am</string>
+    <string name="time_6am">6 am</string>
+    <string name="time_7am">7 am</string>
+    <string name="time_8am">8 am</string>
+    <string name="time_9am">9 am</string>
+    <string name="time_10am">10 am</string>
+    <string name="time_11am">11 am</string>
+    <string name="time_12pm">12 pm</string>
+    <string name="time_13pm">13 pm</string>
+    <string name="time_14pm">14 pm</string>
+    <string name="time_15pm">15 pm</string>
+    <string name="time_16pm">16 pm</string>
+    <string name="time_17pm">17 pm</string>
+    <string name="time_18pm">18 pm</string>
+    <string name="time_19pm">19 pm</string>
+    <string name="time_20pm">20 pm</string>
+    <string name="time_21pm">21 pm</string>
+    <string name="time_22pm">22 pm</string>
+    <string name="time_23pm">23 pm</string>
+    <string name="time_24pm">24 pm</string>
+    <string name="birth_day">I am going to birthday party</string>
+    <string name="current_day_date">8 October, 2016</string>
+
+
+    <string name="action_today">Today</string>
+    <string name="action_day_view">Day view</string>
+    <string name="action_three_day_view">3 day view</string>
+    <string name="action_week_view">Week view</string>
+    <string name="title_activity_basic">Basic Example</string>
+    <string name="title_activity_asynchronous">Asynchronous Events</string>
+    <string name="async_error">Could not download events from the internet</string>
+
+</resources>
+
+
